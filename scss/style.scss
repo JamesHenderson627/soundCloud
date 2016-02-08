@@ -67,41 +67,14 @@
  */
 
 img {
+    max-width: 100%;
     
 }
 /**
  * YOUR CODE HERE
  */
 
-#topBar {
-    margin: 0;
-    width: 100%;
-    height: 250px; 
-}
 
-#logo {
-    width: 100%;
-    height: 200px;
-}
-
-.single {
-    position: relative;
-}
-
-.profilePic {
-    width: 200px;
-    height: 200px;
-}
-
-.userName {
-    display: inline-block;
-    top: 0;
-    position: absolute;
-}
-
-.song {
-    color: blue;
-}
 
 
 
